@@ -102,7 +102,7 @@ August 2025 – May 2026
 ## 📫 Connect With Me
 
 - **LinkedIn:** [Kaustubh Pawar](https://linkedin.com/in/kaustubh-pawar-92320925b)
-- **GitHub:** [KaustubhP234](https://github.com/KaustubhP234)
+- **GitHub:** [kaustubh-pawar-dev](https://github.com/kaustubh-pawar-dev)
 - **Email:** [kaustubhpawar2021@gmail.com](mailto:kaustubhpawar2021@gmail.com)
 
 ---
