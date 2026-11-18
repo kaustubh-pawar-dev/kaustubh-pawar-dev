@@ -91,7 +91,7 @@ Currently developing practical skills in data analysis, querying, data preparati
 ## 💼 Experience
 
 **Software Developer Intern — Sumago Infotech Pvt. Ltd.**  
-August 2025 – May 2026
+August 2025 – March 2026
 
 - Developed and tested REST API endpoints using Node.js, Express.js, and MongoDB.
 - Worked on database operations, request validation, and backend functionality.
