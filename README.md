@@ -17,7 +17,6 @@ I'm currently pursuing a **Data Analytics course at Seed Infotech (July 2026 –
 ---
 
 ## 🚀 Featured Projects
-## 📊 Featured Project
 
 ### Sales Performance Dashboard – Excel
 
