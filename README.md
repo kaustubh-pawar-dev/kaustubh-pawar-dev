@@ -27,8 +27,8 @@ An interactive Excel dashboard for analyzing revenue, orders, product categories
 - Interactive PivotCharts and slicers
 - Regional and product-wise analysis
 - Sales performance insights
-
-🔗 [View Project on GitHub](https://github.com/kaustubh-pawar-dev/Sales-Performance-Dashboard-Excel)
+- 
+🔗 [View Sales Performance Dashboard](https://github.com/kaustubh-pawar-dev/Sales-Performance-Dashboard-Excel-4.)
 
 ### 📊 Nexus Intelligence
 Data analytics and decision-support project.
