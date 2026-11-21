@@ -18,7 +18,7 @@ I'm currently pursuing a **Data Analytics course at Seed Infotech (July 2026 –
 
 ## 🚀 Featured Projects
 
-### Sales Performance Dashboard – Excel
+### 📊 Sales Performance Dashboard – Excel
 
 An interactive Excel dashboard for analyzing revenue, orders, product categories, sales channels, and regional performance.
 
