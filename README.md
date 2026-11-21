@@ -17,6 +17,19 @@ I'm currently pursuing a **Data Analytics course at Seed Infotech (July 2026 –
 ---
 
 ## 🚀 Featured Projects
+## 📊 Featured Project
+
+### Sales Performance Dashboard – Excel
+
+An interactive Excel dashboard for analyzing revenue, orders, product categories, sales channels, and regional performance.
+
+**Key Highlights:**
+- 4 KPI metrics
+- Interactive PivotCharts and slicers
+- Regional and product-wise analysis
+- Sales performance insights
+
+🔗 [View Project on GitHub](https://github.com/kaustubh-pawar-dev/Sales-Performance-Dashboard-Excel)
 
 ### 📊 Nexus Intelligence
 Data analytics and decision-support project.
